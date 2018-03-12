@@ -1,0 +1,20 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.text-center {
+    color: darkcyan;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+    clear: both;
+}
+
+.aqua, .green, .red, .yellow {
+    float: left;
+    width: 125px;
+    height: 125px;
+}
